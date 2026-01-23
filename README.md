@@ -2,6 +2,10 @@
 
 Claude Code에서 `--glm` 플래그 하나로 Anthropic 구독과 z.ai API를 쉽게 전환할 수 있습니다.
 
+## glm coding plan 가입
+GLM 코딩 플랜 초대장 10% 할인
+Link： https://z.ai/subscribe?ic=OTYO9JPFNV
+
 ## 설치 방법
 
 ### macOS / Linux
